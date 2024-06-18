@@ -1,5 +1,5 @@
 # esp8266-system
-basic kernel for personal use
+basic system for personal use
 
 ## Functions
 Basic hardware management
@@ -11,3 +11,15 @@ Option to end or start new process (Not implemented)
 Automatically prevent deadlocks (Not implemented)
 
 Option to apply Kernel Extensions (Not implemented)
+
+
+## To-do
+actually make this shit kernel
+
+add loader
+
+add task queue
+
+add elf support
+
+get life
