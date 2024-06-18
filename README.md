@@ -14,7 +14,7 @@ Option to apply Kernel Extensions (Not implemented)
 
 
 ## To-do
-actually make this shit kernel
+actually make this thing kernel
 
 add loader
 
